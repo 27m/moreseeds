@@ -10,3 +10,6 @@ mod for Schedule I that adds male seeds, pollination, pollen harvesting, and mor
 
 ```pollen harvesting```
 - special machinery required for pollen harvesting provides a barrier to entry, ensuring that innate game difficulty is not lost
+
+```pollinated flower```
+- flower obtained from pollinated plants will be low quality, and is unable to be sold. it must be trashed or smoked, but can have negative side effects if smoked
